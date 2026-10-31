@@ -1,0 +1,6 @@
+{
+  "name": "R 机器学习与预测分析 WebApp 实验室",
+  "description": "R 语言生态机器学习与预测分析虚拟实验室：集成特征选择、数据划分、决策树与随机森林、KNN分类、K-means聚类、交叉验证调优、混淆ROC分析、特征解释、预测结果可视化与四大知识切片。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
